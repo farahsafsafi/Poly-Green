@@ -5,8 +5,8 @@ Calculateur d'empreinte carbone pour les étudiants de Polytech Nantes
 PolyGreen est une application conçue pour sensibiliser les étudiants à leur impact environnemental en leur permettant de calculer et de réduire leur empreinte carbone. En rendant l'écologie accessible, nous visons à encourager des comportements plus respectueux de l'environnement au sein de la communauté universitaire.
 
 🛠️ Fonctionnalités principales
-Calcul de l'empreinte carbone : Basé sur les données saisies par les utilisateurs.
-Interface intuitive : Conçue pour une utilisation simple et rapide.
+* Calcul de l'empreinte carbone : Basé sur les données saisies par les utilisateurs.
+* Interface intuitive : Conçue pour une utilisation simple et rapide.
 
 🚀 Installation et utilisation
 Prérequis
