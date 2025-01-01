@@ -21,16 +21,16 @@ git clone https://github.com/farahsafsafi/Poly-Green.git
 * Lancez l'application sur un émulateur ou un appareil physique connecté.
 
 🌍 Impact écologique
-PolyGreen contribue à sensibiliser une nouvelle génération d'ingénieurs aux défis environnementaux, tout en montrant que de petits gestes au quotidien peuvent faire une grande différence.
+* PolyGreen contribue à sensibiliser une nouvelle génération d'ingénieurs aux défis environnementaux, tout en montrant que de petits gestes au quotidien peuvent faire une grande différence.
 
 💡 Contributeur
 * Farah Safsafi - Développeuse principale et initiatrice du projet.
 
 🛠️ Technologies utilisées
-Langages : Kotlin
-Framework : Android SDK
-Outils de versioning : Git, GitHub
+* Langages : Kotlin
+* Framework : Android SDK
+* Outils de versioning : Git, GitHub
 
 📬 Contact
-Pour toute question ou suggestion, veuillez nous contacter :
+* Pour toute question ou suggestion, veuillez nous contacter :
 📧 Email : contact.farahsafsafi@gmail.com
